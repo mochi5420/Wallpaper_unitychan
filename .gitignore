@@ -79,3 +79,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+
